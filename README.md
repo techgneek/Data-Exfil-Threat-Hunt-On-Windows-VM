@@ -113,13 +113,6 @@ The user account `Cyberlab123` installed 7-Zip via PowerShell, created a ZIP arc
 
 ---
 
-## :camera: Screenshots
-Be sure to embed or upload these screenshots in your GitHub repo:
-- File creation logs (ZIP files in DeviceFileEvents)
-- PowerShell process invoking 7-Zip
-- DeviceNetworkEvents showing remote connection attempts
-
----
 > **Created using Microsoft Defender for Endpoint, Azure Monitor, and KQL**  
 > **Project by James Moore | [GitHub](https://github.com/techgneek) | [YouTube](https://youtube.com/@techgneek) | [LinkedIn](https://linkedin.com/in/jamesmoore1983)**
 
