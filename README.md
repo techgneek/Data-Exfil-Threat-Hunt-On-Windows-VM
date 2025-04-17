@@ -1,4 +1,4 @@
-# 🚨 Data Exfiltration Threat Hunt: Investigation on `win10vm`
+# 🚨 Threat Hunt Investigation: Disgruntled Employee Data Exfiltration 
 
 **Author:** James Moore  \
 **Date:** April 13, 2025  \
