@@ -1,4 +1,4 @@
-# 🚨 Threat Hunt Investigation: Disgruntled Employee Data Exfiltration 
+# 🚨 Threat Hunt Investigation: Data Exfiltration By Disgruntled Employee 
 
 **Author:** James Moore  \
 **Date:** April 13, 2025  \
