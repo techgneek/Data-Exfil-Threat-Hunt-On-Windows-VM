@@ -4,6 +4,8 @@
 **Date:** April 13, 2025  \
 **Lab Type:** Threat Hunting / Data Exfiltration / MITRE ATT&CK Mapping  \
 
+![DATA EXFILTRATION](https://github.com/user-attachments/assets/5d63ac63-fcaa-47bb-a49d-8ea211232822)
+
 ---
 
 ## :bookmark_tabs: Overview
